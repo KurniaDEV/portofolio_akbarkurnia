@@ -1,4 +1,4 @@
-# Project portofolio akbar kurnia
+# Project portofolio
 
 ## Preview web 
  [Demo project](https://sgwn.github.io/portofolio_akbarkurnia )
