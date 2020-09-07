@@ -1,8 +1,4 @@
-# Project Web
+# akbar kurnia portofolio
 
 ## Nama Anggota Team
-- reyhan
-- rendi
 - akbar
-- munif
-- yuda
