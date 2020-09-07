@@ -1,5 +1,4 @@
-# Project portofolio
+# Project Portofolio
 
-## Preview web 
- [Demo project](https://sgwn.github.io/portofolio_akbarkurnia/)
-
+## preview web
+[Demo Project](https://sgwn.github.io/portofolio_akbarkurnia/)
