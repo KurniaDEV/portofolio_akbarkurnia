@@ -1,4 +1,5 @@
-# akbar kurnia portofolio
+# Project portofolio akbar kurnia
 
-## Nama Anggota Team
-- akbar
+## Preview web 
+ [Demo project](https://sgwn.github.io/portofolio_akbarkurnia )
+
